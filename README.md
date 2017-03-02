@@ -37,7 +37,7 @@ Reference : https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it<br><br><br>
 		return num1+num2;
 	}
   ```
-From the above example You can see one variable name "num1" that I set to private because this program is made for calculating number(plus/minus) then the user should not to access the num1.<br> <>
+From the above example You can see one variable name "num1" that I set to private because this program is made for calculating number(plus/minus) then the user should not to access the num1.<br> <br>
 Exercise : https://github.com/famefryer/codeguide/blob/master/src/codeguide/Cylinder.java<br>
 Reference : http://www.artima.com/weblogs/viewpost.jsp?thread=331531
 
